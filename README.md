@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FloralGiant
 - 👀 I’m interested in video game and software development.
-- 🌱 I’m currently learning Python and am brand new to programming.
+- 🌱 I’m currently learning C# and am brand new to programming.
 - 💞️ I’m not currently looking to collaborate on any projects, although that may change as I get more comfortable with programming.
 - 📫 I can be reached via email at thefloralgiant@proton.me.
 
